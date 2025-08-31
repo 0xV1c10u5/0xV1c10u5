@@ -4,7 +4,8 @@
 Hackerman.  Web, Web3, Mobile, AI.
 
 ## Why?
-Moved all private repos to self-hosting pipeline to avoid data harvesting for AI training w/o consent.  This account is for open-source only.
+Moved all private repos to self-hosting pipeline to avoid data harvesting for AI training w/o consent.  
+<p>This account is for open-source only.</p>
 
 ### Roadmap:
 - Bounty Trophy Display
