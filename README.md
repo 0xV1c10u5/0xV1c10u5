@@ -7,6 +7,7 @@ Hackerman.  Web, Web3, Mobile, AI.
 Moved all private repos to self-hosting pipeline to avoid data harvesting for AI training w/o consent.  This account is for open-source only.
 
 ### Roadmap:
+- Bounty Trophy Display
 - **(Scripts)** Scaffolding/Bootstrapping Utility Automation
 - **(Typescript)** AI Generated Blog w/GitHub Actions
 - **(Python)** Div Growth Bot
