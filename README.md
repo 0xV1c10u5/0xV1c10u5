@@ -1,4 +1,4 @@
-## Migrated projects to private git.  This account hosts open-sources/demo projects only.  Stop training AI without consent.
+## Moved git repo to private. Here will host Open-Source projects only. I did this to protect my IP.
 
 <!--
 **0xV1c10u5/0xV1c10u5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
