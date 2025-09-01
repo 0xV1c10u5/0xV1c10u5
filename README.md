@@ -5,7 +5,15 @@ Hackerman.  Web, Web3, Mobile, AI.
 
 ## Why?
 Moved all private repos to self-hosting pipeline to avoid data harvesting for AI training w/o consent.  
-<p>This account is for open-source only.</p>
+
+
+<p>
+  
+This account is **now** for learning/pet projects only.</p>
+
+<p>
+
+**(UPDATE)** I have since found git hosting for open-source repos that does not train AI on your IP @ [https://codeberg.org/](https://codeberg.org/)</p>
 
 ### Roadmap:
 - Bounty Trophy Display
