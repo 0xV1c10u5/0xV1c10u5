@@ -17,12 +17,18 @@ This account is **now** for learning/pet projects only.</p>
 
 ### Roadmap:
 - Bounty Trophy Display
+- Competitive Programming Aggregation
 - **(Scripts)** Scaffolding/Bootstrapping Utility Automation
 - **(Typescript)** AI Generated Blog w/GitHub Actions
 - **(Python)** Div Growth Bot
 - **(Elixir)** Core_X (Core SA-X Elixir Library, Calls Varia)
 - **(Rust)** Varia (Hacking Library Called by Core_X, gRPC)
 - **(Rust)** Modular Database
+
+### Research:
+- LLVM Core
+- DuckDB Codebase
+- Polars Codebase
 <!--
 **0xV1c10u5/0xV1c10u5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
