@@ -19,9 +19,12 @@ This account is **now** for learning/pet projects only.</p>
 - Bounty Trophy Display
 - Competitive Programming Aggregation
 - **(Scripts)** Scaffolding/Bootstrapping Utility Automation
+- **(HTML)** Webcomponent Collection
 - **(Typescript)** AI Generated Blog w/GitHub Actions
+- **(Python)** Dashboard Template
 - **(Python)** Div Growth Bot
-- **(Elixir)** Core_X (Core SA-X Elixir Library, Calls Varia)
+- **(Python)** Kraid (Agentic AI Bounty Framework)
+- **(Elixir)** Core_X (Core SA-X Elixir Library, Calls Varia, Orchestrates Kraid)
 - **(Rust)** Varia (Hacking Library Called by Core_X, gRPC)
 - **(Rust)** Modular Database
 - **(Rust)** Deepweb PII Detection (Removal?)
