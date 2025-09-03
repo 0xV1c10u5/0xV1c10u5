@@ -24,6 +24,7 @@ This account is **now** for learning/pet projects only.</p>
 - **(Elixir)** Core_X (Core SA-X Elixir Library, Calls Varia)
 - **(Rust)** Varia (Hacking Library Called by Core_X, gRPC)
 - **(Rust)** Modular Database
+- **(Rust)** Deepweb PII Detection (Removal?)
 
 ### Research:
 - LLVM Core
