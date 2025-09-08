@@ -16,12 +16,16 @@ This account is **now** for learning/pet projects only.</p>
 **(UPDATE)** I have since found git hosting for open-source repos that does not train AI on your IP @ [https://codeberg.org/](https://codeberg.org/)</p>
 
 ### Favorite Resources
+(In no particular order)
 - [@tomnomnom](https://github.com/tomnomnom)
+- [@seanmor5](https://github.com/seanmor5)
 - [OWASP Juice Shop](https://github.com/juice-shop/juice-shop)
 - [Elixir's Ecto](https://github.com/elixir-ecto/ecto)
 - [Polars Codebase](https://github.com/pola-rs/polars)
 - [DuckDB](https://github.com/duckdb/duckdb)
 - [Reverse Engineering for Beginners](https://beginners.re/)
+- [Railway Oriented Programming](https://fsharpforfunandprofit.com/rop/)
+- [Why SQLite Does Not Use Git](https://www.sqlite.org/whynotgit.html)
 
 ### Roadmap:
 - Bounty Trophy Display
