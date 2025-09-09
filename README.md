@@ -28,18 +28,7 @@ This account is **now** for learning/pet projects only.</p>
 - [Why SQLite Does Not Use Git](https://www.sqlite.org/whynotgit.html)
 
 ### Roadmap:
-- Bounty Trophy Display
-- Competitive Programming Aggregation
-- **(Scripts)** Scaffolding/Bootstrapping Utility Automation
-- **(HTML)** Webcomponent Collection
 - **(Typescript)** AI Generated Blog w/GitHub Actions
-- **(Python)** Dashboard Template
-- **(Python)** Div Growth Bot
-- **(Python)** Kraid (Agentic AI Bounty Framework)
-- **(Elixir)** Core_X (Core SA-X Elixir Library, Calls Varia, Orchestrates Kraid)
-- **(Rust)** Varia (Hacking Library Called by Core_X, gRPC)
-- **(Rust)** Modular Database
-- **(Rust)** Deepweb PII Detection (Removal?)
 
 ### Research:
 - LLVM Core
