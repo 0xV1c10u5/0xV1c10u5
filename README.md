@@ -18,14 +18,15 @@ This account is **now** for learning/pet projects only.</p>
 ### Favorite Resources
 (In no particular order)
 - [@tomnomnom](https://github.com/tomnomnom)
-- [@seanmor5](https://github.com/seanmor5)
 - [OWASP Juice Shop](https://github.com/juice-shop/juice-shop)
-- [Elixir's Ecto](https://github.com/elixir-ecto/ecto)
-- [Polars Codebase](https://github.com/pola-rs/polars)
-- [DuckDB](https://github.com/duckdb/duckdb)
 - [Reverse Engineering for Beginners](https://beginners.re/)
+- [@seanmor5](https://github.com/seanmor5)
+- [Elixir's Ecto](https://github.com/elixir-ecto/ecto)
+- [A brief introduction to BEAM](https://www.erlang.org/blog/a-brief-beam-primer/)
 - [Railway Oriented Programming](https://fsharpforfunandprofit.com/rop/)
 - [Why SQLite Does Not Use Git](https://www.sqlite.org/whynotgit.html)
+- [Polars Codebase](https://github.com/pola-rs/polars)
+- [DuckDB](https://github.com/duckdb/duckdb)
 
 ### Roadmap:
 - **(Typescript)** AI Generated Blog w/GitHub Actions
