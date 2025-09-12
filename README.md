@@ -32,8 +32,10 @@ This account is **now** for learning/pet projects only.</p>
 
 ### Research:
 - LLVM Core
+- BEAM VM
 - DuckDB Codebase
 - Polars Codebase
+- Rad Debugger
 <!--
 **0xV1c10u5/0xV1c10u5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
