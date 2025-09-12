@@ -22,7 +22,7 @@ This account is **now** for learning/pet projects only.</p>
 - [Reverse Engineering for Beginners](https://beginners.re/)
 - [@seanmor5](https://github.com/seanmor5)
 - [Elixir's Ecto](https://github.com/elixir-ecto/ecto)
-- [A brief introduction to BEAM](https://www.erlang.org/blog/a-brief-beam-primer/)
+- [The BEAM Book](https://blog.stenmans.org/theBeamBook/)
 - [Railway Oriented Programming](https://fsharpforfunandprofit.com/rop/)
 - [Why SQLite Does Not Use Git](https://www.sqlite.org/whynotgit.html)
 - [Polars Codebase](https://github.com/pola-rs/polars)
