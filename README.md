@@ -29,7 +29,7 @@ This account is **now** for learning/pet projects only.</p>
 - [DuckDB](https://github.com/duckdb/duckdb)
 
 ### Roadmap:
-- **(Typescript)** AI Generated Blog w/GitHub Actions
+- **(Typescript)** AI Generated Blog w/GitHub Actions Automation
 
 ### Research:
 - LLVM Core
