@@ -37,6 +37,7 @@ This account is **now** for learning/pet projects only.</p>
 - DuckDB Codebase
 - Polars Codebase
 - Rad Debugger
+- GCC
 <!--
 **0xV1c10u5/0xV1c10u5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
